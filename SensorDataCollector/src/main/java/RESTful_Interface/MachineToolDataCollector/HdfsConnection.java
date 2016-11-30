@@ -39,7 +39,7 @@ public class HdfsConnection
     
     
 
-    /***** build the request URL *****/
+    /***** build the request URL ******/
     private String buildUploadURL(String outputFilePath, int method)
     {
         String fileURL = "";
